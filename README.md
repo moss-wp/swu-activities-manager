@@ -1,0 +1,1 @@
+# swu-activities-manager
